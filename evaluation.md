@@ -1,0 +1,3 @@
+1. I feel very confident, it's a concept that seems to have an important application within the language. I can't imagine having to write out code for a recursive variable like "names" or "emails"
+2. No, this lesson covered some ground and I think I've got plenty to digest.
+3. The one I had was about multiple data types within and array. Since it was already stated that they are not effective with multiple data types I'd be curious to see why. I don't have the big picture on the application of arrays just yet and why that it would not be helpful.
