@@ -22,7 +22,7 @@ puts stringz[0]
 # will puts Chips
 
 puts integerz[1]
-# will puts 120
+# will puts 360
 
 puts booleanz[2]
 # will puts false
