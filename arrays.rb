@@ -21,8 +21,13 @@ puts booleanz.push("false")
 puts stringz[0]
 # will puts Chips
 
-puts integerz[3]
+puts integerz[1]
 # will puts 120
 
 puts booleanz[2]
 # will puts false
+
+
+# Neat method I looked up
+# .take will return defined number of values of an array
+puts stringz.take(3)
